@@ -1,1 +1,0 @@
-surface area = L * W * 6
