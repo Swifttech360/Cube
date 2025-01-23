@@ -1,5 +1,5 @@
 OVERVIEW
-    This is a program that gets a cube sidelength as a user input,
+  This is a program that gets a cube sidelength as a user input,
   then outputs the total surface area of the theoretical cube.
 
 PSEUDOCODE
